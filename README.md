@@ -1,4 +1,4 @@
-# resept
+# recept
 
 ![brownies](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcelebratingsweets.com%2Frich-fudgy-brownies%2F&psig=AOvVaw18NigtFaflG6wg3gjSmrnW&ust=1633086205292000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjCqsHGpvMCFQAAAAAdAAAAABAD)
 
